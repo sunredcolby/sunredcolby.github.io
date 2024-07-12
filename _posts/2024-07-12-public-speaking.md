@@ -28,4 +28,7 @@ Participate in groups like Toastmasters to practise public speaking in a support
 
 *Simplify Your Message*: Focus on conveying your core message in a clear and concise manner. Avoid overloading your audience with technical details; instead, use analogies and examples to make your points relatable.
 
+Finally come along to SecTalks. It's a welcoming atmosphere where anyone can present on cybersecurity topics. Last month we had a lightning talks night where we had ten different speakers each only speaking for 5 minutes each.
+https://www.sectalks.org/
+
 Public speaking skills can go a long way in incident management when you are herding cats. Even tabletop exercises can transform from a boring checkbox to an exciting and fun experience with some public speaking experience.
