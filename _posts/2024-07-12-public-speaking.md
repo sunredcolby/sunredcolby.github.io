@@ -18,7 +18,9 @@ The important thing to remember is that whatever your specialisation there are m
 ## Lack of Presentation Experience
 Cybersecurity professionals often spend more time behind screens than in front of audiences. The lack of experience with public speaking can naturally lead to anxiety and a lack of confidence.
 
-Participate in groups like Toastmasters to practise public speaking in a supportive environment. These groups offer a safe space to improve your skills and build confidence.
+Participate in groups like Toastmasters to practise public speaking in a supportive environment. These groups offer a safe space to improve your skills and build confidence. Not all Toastmasters clubs are equal, be sure to look around and find a nice one.
+
+![Image](/images/toastmasters.jpeg)
 
 *Practice Regularly*: Like any other skill, public speaking improves with practice. Rehearse your presentations multiple times and seek opportunities to speak in smaller, less formal settings to build your confidence.
 
